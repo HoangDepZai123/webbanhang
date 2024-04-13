@@ -1,0 +1,1 @@
+<p>footer AD</p>
