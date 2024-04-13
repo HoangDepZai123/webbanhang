@@ -12,7 +12,7 @@
             header("Location:index.php");
 
         }else{
-            echo '<script> alert("Tài khoản hoặc mật khẩu không chính xác")   </script>';
+            echo '<script> alert("Tài khoản hoặc mật khẩu không chính xác nhe")   </script>';
             header("Location:login.php");
         }
 
